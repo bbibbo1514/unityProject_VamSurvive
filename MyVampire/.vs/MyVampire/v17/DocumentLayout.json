@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\01\\MyVampire\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD215E7-353A-96AC-4EF1-28F16D837201}|Assembly-CSharp.csproj|D:\\01\\MyVampire\\assets\\script\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD215E7-353A-96AC-4EF1-28F16D837201}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD215E7-353A-96AC-4EF1-28F16D837201}|Assembly-CSharp.csproj|d:\\01\\myvampire\\assets\\script\\moveplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD215E7-353A-96AC-4EF1-28F16D837201}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\moveplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD215E7-353A-96AC-4EF1-28F16D837201}|Assembly-CSharp.csproj|D:\\01\\MyVampire\\assets\\script\\movecamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD215E7-353A-96AC-4EF1-28F16D837201}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\movecamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD215E7-353A-96AC-4EF1-28F16D837201}|Assembly-CSharp.csproj|D:\\01\\MyVampire\\assets\\script\\playercam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD215E7-353A-96AC-4EF1-28F16D837201}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playercam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "D:\\01\\MyVampire\\Assets\\Script\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Bullet.cs",
+              "ToolTip": "D:\\01\\MyVampire\\Assets\\Script\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Script\\Bullet.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA2wBEAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T08:21:16.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovePlayer.cs",
+              "DocumentMoniker": "D:\\01\\MyVampire\\Assets\\Script\\MovePlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\MovePlayer.cs",
+              "ToolTip": "D:\\01\\MyVampire\\Assets\\Script\\MovePlayer.cs",
+              "RelativeToolTip": "Assets\\Script\\MovePlayer.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAywE0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T07:01:24.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "moveCamera.cs",
+              "DocumentMoniker": "D:\\01\\MyVampire\\Assets\\Script\\moveCamera.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\moveCamera.cs",
+              "ToolTip": "D:\\01\\MyVampire\\Assets\\Script\\moveCamera.cs",
+              "RelativeToolTip": "Assets\\Script\\moveCamera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T06:05:33.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerCam.cs",
+              "DocumentMoniker": "D:\\01\\MyVampire\\Assets\\Script\\PlayerCam.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PlayerCam.cs",
+              "ToolTip": "D:\\01\\MyVampire\\Assets\\Script\\PlayerCam.cs",
+              "RelativeToolTip": "Assets\\Script\\PlayerCam.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA2wB4AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T05:55:50.794Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
