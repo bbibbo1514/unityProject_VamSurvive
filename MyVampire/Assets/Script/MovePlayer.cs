@@ -7,10 +7,8 @@ using UnityEngine;
 public class MovePlayer : MonoBehaviour
 {
     [Header("Movement")]
-    public float moveSpeed;
-    public GameObject bullet;
-    public Transform orientation;
-
+    public float moveSpeed;    
+    public Transform orientation;    
     public Transform camera;
     float horizontalInput;
     float verticalInput;
@@ -25,7 +23,7 @@ public class MovePlayer : MonoBehaviour
     void Start()
     {
         rb = GetComponent<Rigidbody>();
-        rb.freezeRotation = true;
+        rb.freezeRotation = true;       
     }
 
     private void MyInput()
@@ -37,11 +35,7 @@ public class MovePlayer : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        MyInput();
-        if (Input.GetKeyDown(KeyCode.Space))
-        {
-            Shot();
-        }
+        MyInput();        
     }
     private void FixedUpdate()
     {
@@ -71,10 +65,5 @@ public class MovePlayer : MonoBehaviour
         float velocityFloat = rb.velocity.magnitude;
         tmpText.text = velocityFloat.ToString("F1");
     }
-    void Shot()
-    {
-        Vector3 shootDirection = camera.transform.forward;
-        Quaternion shootRotation = Quaternion.LookRotation(shootDirection.normalized);
-        Instantiate(bullet,transform.position,shootRotation);
-    }
+    
 }
